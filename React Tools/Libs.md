@@ -24,11 +24,11 @@ I made a list with the most important (for me) libraries in React that i use in 
 
 ## CSS in JS
 
--[**Styled-components:**](https://styled-components.com) Allows you to write actual CSS code to style your React components, promoting component-specific styling with a JavaScript-driven approach.
+- [**Styled-components:**](https://styled-components.com) Allows you to write actual CSS code to style your React components, promoting component-specific styling with a JavaScript-driven approach.
 
 ## Form Handling
 
--[**Formik:**](https://formik.org) Simplifies form handling in React, from maintaining form state to validation and submission.
+- [**Formik:**](https://formik.org) Simplifies form handling in React, from maintaining form state to validation and submission.
 
 - [**React Hook Form:**](https://react-hook-form.com) Focuses on performance and minimizing re-renders for complex forms by leveraging React hooks.
 
